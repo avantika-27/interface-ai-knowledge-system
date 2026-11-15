@@ -4,9 +4,9 @@ __pycache__/
 .DS_Store
 .env
 .env.*
-# Website snapshots must not be published
-snapshots/
-snapshots_zip/
+# Website snapshots must not be published (kit root only)
+/snapshots/
+/snapshots_zip/
 *.zip
 .venv/
 venv/
