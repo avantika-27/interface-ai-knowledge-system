@@ -1,0 +1,12 @@
+results/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+# Website snapshots must not be published
+snapshots/
+snapshots_zip/
+*.zip
+.venv/
+venv/
